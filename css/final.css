@@ -1,7 +1,3 @@
-/* body{
-    background-image: url(https://thumbs.dreamstime.com/b/christmas-border-holiday-garland-isolated-transparent-background-vector-christmas-tree-branches-lights-cones-festive-banner-159817930.jpg?w=1600);
-    background-size: cover;
-} */
 body{
     background-color: rgb(219, 237, 206);
 }
@@ -17,6 +13,7 @@ h1{
 }
 img{
     border: solid darkolivegreen 5px;
+    width: 25%;
 }
 .header{
     left: 0px;
@@ -33,4 +30,10 @@ img{
     font-size: large;
     background-color: aliceblue;
     padding: 5px;
+}
+li{
+    font-weight: normal;
+}
+.bold{
+    font-weight: bold;
 }
